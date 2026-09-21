@@ -1,0 +1,15 @@
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Model file (large)
+gender_model.keras
+
+# Dataset images
+dataset/
+
+# VS Code settings
+.vscode/
